@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Diriba%20Adugna%20Teka&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&descColor=8b949e&animation=fadeIn" alt="Header Banner" />
+# 👋 Hi, I'm Diriba Adugna Teka
+
+### 🎓 CS & Engineering Student @ ASTU &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; ⚔️ Competitive Programmer
 
 </div>
 
@@ -148,7 +150,7 @@ My journey into programming started with curiosity — and it never stopped. I'm
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
+---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=diro25&color=58a6ff&style=flat-square&label=Profile+Views)
 

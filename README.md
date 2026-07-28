@@ -26,7 +26,7 @@ My journey into programming started with curiosity — and it never stopped. I'm
 
 - 🌐 **Full-Stack Development** — building end-to-end web applications
 - ⚔️ **Competitive Programming** — sharpening algorithmic thinking daily
-- 🤖 **Artificial Intelligence** — exploring ML concepts and applications
+- 🤖 **Artificial Intelligence** — exploring ML concepts and applications development
 - 🔓 **Open Source** — contributing to and learning from the community
 - 🏗️ **Software Engineering** — writing clean, maintainable, scalable code
 

@@ -90,7 +90,7 @@ Problem-solving is a discipline I train regularly, not a side interest.
 
 ---
 
-## Featured Projects
+## Featured Projectss
 
 ### 🌐 [Portfolio Website](https://github.com/diro25/portfolio-website)
 Personal portfolio site showcasing projects, skills, and background — built with HTML, CSS, and JavaScript, with a clean, recruiter-friendly layout.

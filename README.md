@@ -28,7 +28,7 @@ I'm early in my career and deliberate about it: focused on closing real skill ga
 
 ---
 
-## Technical Skill
+## Technical Skills
 
 **Languages**
 

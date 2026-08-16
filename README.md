@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diriba Adugna 
+# Diriba Adugna Teka
 
 **Computer Science & Engineering Student · Aspiring Full-Stack Developer · Competitive Programmer**
 

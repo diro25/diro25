@@ -96,7 +96,7 @@ Problem-solving is a discipline I train regularly, not a side interest.
 Personal portfolio site showcasing projects, skills, and background — built with HTML, CSS, and JavaScript, with a clean, recruiter-friendly layout.
 
 ### 🧮 [Problem Solving](https://github.com/diro25/problem-solving)
-An ongoing collection of algorithmic solutions and data structure implementations, written while training for competitive programming on Codeforces and LeetCode.
+An ongoing collection of algorithmic solutions and data structure implementations, written while trainings for competitive programming on Codeforces and LeetCode.
 
 ### 🎨 [Unity Landing Page](https://github.com/diro25/unity-landing-page)
 A responsive landing page demonstrating a unified design system — CSS Grid layouts, sticky navigation, and consistent spacing/hover interactions across sections.

@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a second-year Computer Science & Engineering student at [Adama Science and Technology University (ASTU)](https://www.astu.edu.et/), building toward a career as a full-stack software engineer.
+I'm a thrid-year Computer Science & Engineering student at [Adama Science and Technology University (ASTU)](https://www.astu.edu.et/), building toward a career as a full-stack software engineer.
 
 My work right now sits at the intersection of two disciplines:
 

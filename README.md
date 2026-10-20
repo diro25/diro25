@@ -2,9 +2,9 @@
 
 # Diriba Adugna Teka
 
-**Computer Science & Engineering Student · Aspiring Full-Stack Developer · Competitive Programmer**
+**Computer Science & Engineering Student · Full-Stack Developer · Problem Solver**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=CS+%26+Engineering+Student+%40+ASTU;Full-Stack+Developer+in+Training;Competitive+Programmer+%7C+Codeforces+%2B+LeetCode;%22Curiosity+today%2C+impact+tomorrow.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=CS+%26+Engineering+Student+%40+ASTU;Full-Stack+Developer%3A+React+%7C+Node.js+%7C+PostgreSQL;Competitive+Programmer+%7C+Codeforces+%2B+LeetCode)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-diro25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/diro25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diriba_Adugna-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diriba-adugna-4ab337383)
@@ -17,14 +17,14 @@
 
 ## About Me
 
-I'm a thrid-year Computer Science & Engineering student at [Adama Science and Technology University (ASTU)](https://www.astu.edu.et/), building toward a career as a full-stack software engineer.
+I'm a third-year Computer Science & Engineering student at [Adama Science and Technology University (ASTU)](https://www.astu.edu.et/), building toward a career as a full-stack software engineer.
 
-My work right now sits at the intersection of two disciplines:
+My work sits at the intersection of two disciplines:
 
-- **Full-stack development** — building complete, working applications rather than isolated exercises, from front-end UI to back-end logic
-- **Competitive programming** — training algorithmic thinking daily on Codeforces and LeetCode to build the problem-solving speed and rigor that production engineering demands
+- **Full-stack development**: building complete, working applications from the React front end to the Node.js API and the PostgreSQL database. My latest project, **DevTrack**, took about 45 days to build end to end.
+- **Competitive programming**: training algorithmic thinking regularly on Codeforces and LeetCode to build the problem-solving speed and rigor that production engineering demands.
 
-I'm early in my career and deliberate about it: focused on closing real skill gaps, shipping projects I can speak to in depth, and building a track record I can stand behind — not just a list of tutorials completed.
+I'm early in my career and deliberate about it: closing real skill gaps, shipping projects I can explain in depth, and building a track record I can stand behind.
 
 ---
 
@@ -47,10 +47,11 @@ I'm early in my career and deliberate about it: focused on closing real skill ga
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-**Back-End**
+**Back-End & Database**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -62,7 +63,26 @@ I'm early in my career and deliberate about it: focused on closing real skill ga
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-**Concepts:** Object-Oriented Programming · Data Structures & Algorithms
+**Concepts:** Object-Oriented Programming · Data Structures & Algorithms · API Development · Relational Databases
+
+---
+
+## Featured Projects
+
+### 🚀 [DevTrack](https://github.com/diro25/devtrack) (Full-Stack)
+A full-stack application built over about 45 days, with a **React** front end, a **Node.js** API, and a **PostgreSQL** database. It covers the whole stack, from UI to business logic to data persistence.
+
+### 🌐 [Portfolio Website](https://github.com/diro25/portfolio-website)
+Personal portfolio site showcasing projects, skills, and background, built with HTML, CSS, and JavaScript, with a clean, recruiter-friendly layout.
+
+### 🧮 [Problem Solving](https://github.com/diro25/problem-solving)
+An ongoing collection of algorithmic solutions and data structure implementations, written while training for competitive programming on Codeforces and LeetCode.
+
+### 🎨 [Unity Landing Page](https://github.com/diro25/unity-landing-page)
+A responsive landing page demonstrating a unified design system: CSS Grid layouts, sticky navigation, and consistent spacing and hover interactions across sections.
+
+### 🎮 [Tic-Tac-Toe (5×5)](https://github.com/diro25/tic-tac-toe-5x5)
+An extended tic-tac-toe variant implemented in Java using object-oriented design, with custom win-condition logic for the larger board.
 
 ---
 
@@ -72,7 +92,7 @@ Problem-solving is a discipline I train regularly, not a side interest.
 
 | Platform | Profile | Stats |
 |:---:|:---:|:---:|
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [diro15](https://codeforces.com/profile/diro15) | Rating: **603** · 100+ problems solved |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [diro15](https://codeforces.com/profile/diro15) | 100+ problems solved |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [everydaaycode](https://leetcode.com/u/everydaaycode/) | 100+ problems solved |
 
 ---
@@ -90,25 +110,6 @@ Problem-solving is a discipline I train regularly, not a side interest.
 
 ---
 
-## Featured Projectss
-
-### 🌐 [Portfolio Website](https://github.com/diro25/portfolio-website)
-Personal portfolio site showcasing projects, skills, and background — built with HTML, CSS, and JavaScript, with a clean, recruiter-friendly layout.
-
-### 🧮 [Problem Solving](https://github.com/diro25/problem-solving)
-An ongoing collection of algorithmic solutions and data structure implementations, written while trainings for competitive programming on Codeforces and LeetCode.
-
-### 🎨 [Unity Landing Page](https://github.com/diro25/unity-landing-page)
-A responsive landing page demonstrating a unified design system — CSS Grid layouts, sticky navigation, and consistent spacing/hover interactions across sections.
-
-### 🎮 [Tic-Tac-Toe (5×5)](https://github.com/diro25/tic-tac-toe-5x5)
-An extended tic-tac-toe variant implemented in Java using object-oriented design, with custom win-condition logic for the larger board.
-
-### 🏥 Hospital Management System
-Desktop application built with Java Swing and a relational database to manage hospital operations — patient records, staff, and scheduling — covering UI, business logic, and persistence layers end to end.
-
----
-
 ## Languages
 
 | Language | Proficiency |
@@ -121,7 +122,7 @@ Desktop application built with Java Swing and a relational database to manage ho
 
 ## What I'm Working Toward
 
-- Becoming a strong full-stack engineer with real, owned projects — not just tutorial clones
+- Becoming a strong full-stack engineer with real, owned projects
 - Deepening algorithmic fluency through consistent competitive programming
 - Landing my first internship or junior engineering role
 - Contributing to open-source projects
